@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "limonene",
+			"path": ".."
+		},
+		{
+			"name": "test-project",
+			"path": "../test-project"
+		},
+		{
+			"name": "blade-example",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
